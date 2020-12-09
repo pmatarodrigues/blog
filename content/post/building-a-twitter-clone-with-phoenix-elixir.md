@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Pedro Mata Rodrigues"]
 date = 2020-08-22T22:19:00Z
 excerpt = "Phoenix is a web development framework written in Elixir which implements the Model – View – Controller (MVC) pattern. Phoenix is a lot of times compared with other web frameworks like Ruby on Rails and Django"
 hero = "/images/flutter-705x3971.png"
