@@ -1,0 +1,19 @@
+baseURL = "https://blog.pmatarodrigues.com"
+languageCode = "en-us"
+title = "pmatarodrigues-$ the blog"
+theme = "novela"
+
+# Novela settings
+
+paginate = 6
+
+[social]
+twitter= "#"
+github= "https://github.com/pmatarodrigues"
+linkedin= "https://www.linkedin.com/in/pmatarodrigues"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
