@@ -20,3 +20,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- content/post/web-frameworks-why-is-it-so-hard-to-choose-one.md
