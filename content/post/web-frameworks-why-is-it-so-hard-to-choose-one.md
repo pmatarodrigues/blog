@@ -2,7 +2,7 @@
 authors = ["Pedro Mata Rodrigues"]
 date = 2020-08-06T20:17:00Z
 excerpt = "Developing for web is easier than ever and the amount of tools and resources available is increasing at an intense rate.  One of the main decisions that has to be made at the start of every web project is if we're going to use a framework and if so, which one."
-hero = "/uploads/flutter-705x397.png"
+hero = "/images/flutter-705x397.png"
 timeToRead = 0
 title = "Web Frameworks: Why is it so hard to choose one?"
 
