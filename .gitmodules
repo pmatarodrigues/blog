@@ -1,0 +1,3 @@
+[submodule "themes/themes/novela"]
+	path = themes/themes/novela
+	url = https://github.com/forestryio/hugo-theme-novela.git
