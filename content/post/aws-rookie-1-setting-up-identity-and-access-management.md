@@ -1,13 +1,14 @@
 +++
-authors = ['Pedro Mata Rodrigues']
+authors = ["Pedro Mata Rodrigues"]
+category = ["aws", "cloud"]
 date = 2020-07-26T10:54:00Z
+draft = true
 excerpt = "This is the start of my journey through AWS and I'll try to describe all of the things that helped me on this path. All the good resources, cool people and tools will be featured here. "
 hero = "/images/aws-setting-up.png"
 timeToRead = 0
 title = "AWS Rookie #1 - Setting up Identity and Access Management"
-category = ["aws", "cloud"]
-+++
 
++++
 You know when you just get tired of everything else you've been working on the last few years and decide to start fresh?
 
 **That's not what happened to me**.
