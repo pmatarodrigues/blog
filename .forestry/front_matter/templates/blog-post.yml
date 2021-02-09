@@ -23,4 +23,5 @@ fields:
   default: 0
 pages:
 - content/post/building-a-twitter-clone-with-phoenix-elixir.md
+- content/post/building-an-app-to-manage-my-financial-portfolio.md
 - content/post/web-frameworks-why-is-it-so-hard-to-choose-one.md
