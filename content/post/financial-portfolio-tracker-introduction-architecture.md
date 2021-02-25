@@ -1,5 +1,5 @@
 +++
-authors = ["PedroMataRodrigues"]
+authors = ["Pedro Mata Rodrigues"]
 date = 2021-02-15T00:00:00Z
 excerpt = "I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.  A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager."
 hero = "/images/airfinance_blog_1.png"
