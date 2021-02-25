@@ -43,9 +43,9 @@ Frontend code was generated using [Create React App](https://reactjs.org/docs/cr
 
 CSS is left to [TailwindCSS](https://tailwindcss.com/). I absolutely fell in love with it the first time I used it. The time it saves and the simplicity necessary for building some component are some major advantages in comparison to regular css and even scss. The only downside I found is the amount of code that stays on the html side, which is one thing I'm currently studying in order to better understand how it can be overcome.
 
-This is the first look of how it looks. I'm still trying to play a bit with positioning and colours but it's not bad for a first sketch. (Do not make fun of my income, I'm slowly working it out `:sweat_smile:` )
+This is the first look of how it looks. I'm still trying to play a bit with positioning and colours but it's not bad for a first sketch. (Do not make fun of my income, I'm slowly working it out :sweat_smile: )
 
-![](/images/first_screenshot-1.png)
+![](/images/2021-02-25_02-43.png)
 
 ## Next Step
 
