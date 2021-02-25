@@ -2,16 +2,16 @@
 authors = ["PedroMataRodrigues"]
 date = 2021-02-15T00:00:00Z
 excerpt = "I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.  A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager."
-hero = "/images/airfinance_blog_1-1.png"
+hero = "/images/airfinance_blog_1.png"
 timeToRead = 3
-title = "Building a Financial Portfolio Manager - Introduction and Architecture"
+title = "Building a Financial Portfolio Tracker - Introduction and Architecture"
 
 +++
 _Hello There!_
 
-The number of frameworks and programming languages is increasing and, as I needed to solidify and diversify my knowledge in order to understand what would catch my attention, 
+The number of frameworks and programming languages is increasing and, as I needed to solidify and diversify my knowledge in order to understand what would catch my attention,
 
-I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager. 
+I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Tracker.
 
 A platform like this could scale to a high number of requirements if I wanted to continue with it, but at the same time it was perfect for a small and steady start.
 
@@ -51,7 +51,7 @@ This is the first look of how it looks. I'm still trying to play a bit with posi
 
 This first step was mainly focused on exposing the project and introducing what my main goals are and what will be necessary for this to be built. In the next post, I'll write about the backend part and how the connection between the two will be made.
 
-Find out on the next ~~episode~~ **_Building a Financial Portfolio Manager with React, Go and Postgres_** part ^^
+Find out on the next ~~episode~~ **_Building a Financial Portfolio Tracker_** part ^^
 
 Thank you for reading.
 
