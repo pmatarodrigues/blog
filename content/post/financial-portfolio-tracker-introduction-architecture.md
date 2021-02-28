@@ -17,8 +17,6 @@ A platform like this could scale to a high number of requirements if I wanted to
 
 > This post is written in the present, as I'm writing as things are advancing, and every new post will be related to each achieved checkpoint.
 
-***
-
 ## Project Architecture
 
 Starting this project with the mindset of creating something that could be used to improve my knowledge means that every step should be taken having in mind a correct software development process. So... No skipping steps.
@@ -32,8 +30,6 @@ With this in mind, I'm starting with a basic diagram of the technological stack 
 ![](/images/db_diagram.png)
 
 I sketched an initial and pretty basic database diagram to serve as base for this project, it's main components being User (user data and login information), Account (bank, exchange account, under the mattress or some place where the user keeps its money), Holding (what that account holds. for example EUR, USD, Stocks, Crypto, etc..) and Checkpoints. This last table will be mainly used to build evolution diagrams with the main goal of learning about Big Data in the future.
-
-***
 
 ## Frontend
 
@@ -56,7 +52,5 @@ Find out on the next ~~episode~~ **_Building a Financial Portfolio Tracker_** pa
 Thank you for reading.
 
 #### Continuing...
-
-***
 
 If you have any questions regarding this post (or just want to follow me), I'm on [Twitter](https://twitter.com/pmatarodrigues), [Github](https://github.com/pmatarodrigues) and [Linkedin](https://linkedin.com/in/pmatarodrigues).
