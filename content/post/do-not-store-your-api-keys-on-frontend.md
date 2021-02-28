@@ -14,6 +14,8 @@ There's a couple of things you can do to "hide" your keys and actually make them
 Create a `.env` file, put sensitive information there and access those variables from your code. That file should always be kept away from source control, like Github, so that's already one advantage against using variables directly on the code. But there's a **couple of problems** related to this method.
 
 > You should never store your API Keys on Frontend.
+>
+> 
 > ![Never](https://media.giphy.com/media/Y4Jb8jkcqRtnznTnpC/giphy.gif)
 
 First, when you build the project in order to use it in production, those variables will stay somewhere on the bundled code, which means that anyone with access to that code will be able to dig through it and possibly find what your secret key is.
