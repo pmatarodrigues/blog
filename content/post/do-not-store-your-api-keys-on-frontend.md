@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Pedro Mata Rodrigues"]
 date = 2021-02-28T00:00:00Z
 excerpt = "Multiple times I'm asked what is the best way to store and access Secret Keys - such as API keys - on a React application.  There's a couple of things you can do to \"hide\" your keys and actually make them harder to access. "
 hero = "/images/new-project.png"

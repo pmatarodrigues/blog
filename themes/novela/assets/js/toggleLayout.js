@@ -8,6 +8,8 @@ let listRemoveWidth = window.matchMedia("(max-width: 735px)");
 let listAddWidth = window.matchMedia("(min-width: 735px)");
 let isList = false;
 
+makeRows();
+
 function adjustListAtMobile(){
     if (listRemoveWidth.matches) {
         document.getElementById("articlesList").classList.remove("articles-list-container-alt");
