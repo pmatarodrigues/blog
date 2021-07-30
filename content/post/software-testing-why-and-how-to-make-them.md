@@ -1,7 +1,7 @@
 +++
 authors = ["Pedro Mata Rodrigues"]
 date = 2021-07-29T23:00:00Z
-excerpt = "ime is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, the time you spent writing tests now, is the time you'll save later."
+excerpt = "time is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, the time you spent writing tests now, is the time you'll save later."
 hero = "/images/on-software-testing.png"
 timeToRead = 2
 title = "on software testing"
