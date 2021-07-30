@@ -1,9 +1,8 @@
 +++
 authors = ["Pedro Mata Rodrigues"]
 date = 2021-07-29T23:00:00Z
-draft = true
 excerpt = "ime is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, the time you spent writing tests now, is the time you'll save later."
-hero = ""
+hero = "/images/on-software-testing.png"
 timeToRead = 2
 title = "on software testing"
 
@@ -16,7 +15,7 @@ I've met a lot of software developers that do not write any tests, despite this 
 
 time is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, **the time you spent writing tests now, is the time you'll save later** fixing bugs and rewriting your old code.
 
-![](/images/aint-nobody-got-time-for-that.gif)
+![aint nobody got time for that](/images/aint-nobody-got-time-for-that.gif)
 
 # but why should you write tests?
 
