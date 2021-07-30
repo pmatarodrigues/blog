@@ -15,7 +15,7 @@ I've met a lot of software developers that do not write any tests, despite this 
 
 time is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, **the time you spent writing tests now, is the time you'll save later** fixing bugs and rewriting your old code.
 
-![aint nobody got time for that](/images/aint-nobody-got-time-for-that.gif)
+![aint nobody got time for that](https://media.giphy.com/media/FOHj4MpT2PLm8/giphy.gif)
 
 # but why should you write tests?
 
