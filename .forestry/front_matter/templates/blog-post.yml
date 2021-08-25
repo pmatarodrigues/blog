@@ -22,10 +22,12 @@ fields:
   label: timeToRead
   default: 0
 pages:
+- content/post/about-functional-programming.md
 - content/post/agile-development.md
 - content/post/building-a-twitter-clone-with-phoenix-elixir.md
 - content/post/do-not-store-your-api-keys-on-frontend.md
 - content/post/financial-portfolio-tracker-introduction-architecture.md
 - content/post/improving-code-quality-with-dependency-injection.md
+- content/post/re-learning-java.md
 - content/post/software-testing-why-and-how-to-make-them.md
 - content/post/web-frameworks-why-is-it-so-hard-to-choose-one.md
