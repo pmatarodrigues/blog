@@ -26,6 +26,7 @@ pages:
 - content/post/agile-development.md
 - content/post/building-a-twitter-clone-with-phoenix-elixir.md
 - content/post/continuous-delivery.md
+- content/post/continuous-integration.md
 - content/post/do-not-store-your-api-keys-on-frontend.md
 - content/post/event-driven-architecture.md
 - content/post/financial-portfolio-tracker-introduction-architecture.md
