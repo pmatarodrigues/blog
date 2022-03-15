@@ -5,6 +5,7 @@ description: Phoenix is a web development framework written in Elixir which impl
 summary: Phoenix is a web development framework written in Elixir which implements the Model – View – Controller (MVC) pattern. Phoenix is a lot of times compared with other web frameworks like Ruby on Rails and Django.
 tags: coding
 minute: 2
+date: 2020-08-22T01:28:20.170Z
 ---
 
 > _(Work in Progress)_

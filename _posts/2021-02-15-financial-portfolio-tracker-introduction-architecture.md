@@ -5,6 +5,7 @@ description: I decided to embrace in a new side project, something that could be
 summary: I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.  A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager.
 tags: coding
 minute: 2
+date: 2021-02-15T01:28:20.170Z
 ---
 
 _Hello There!_

@@ -5,6 +5,7 @@ description: Multiple times I'm asked what is the best way to store and access S
 summary: Multiple times I'm asked what is the best way to store and access Secret Keys - such as API keys - on a React application.  There's a couple of things you can do to \"hide\" your keys and actually make them harder to access
 tags: security
 minute: 2
+date: 2021-02-28T01:28:20.170Z
 ---
 
 Multiple times I'm asked what is the **best way to store and access** **Secret Keys** - such as API keys - on frontend (React, Vue, etc...)

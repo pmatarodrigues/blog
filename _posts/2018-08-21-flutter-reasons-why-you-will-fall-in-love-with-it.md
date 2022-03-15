@@ -3,17 +3,17 @@ layout: post
 title: Flutter - Reasons Why You Will Fall In Love With It
 description: Google’s SDK is here, and it has a word to say in Mobile App development
 summary: Google’s SDK is here, and it has a word to say in Mobile App development.
-tags: coding
+tags: coding mobile
 minute: 2
+date: 2018-08-21T01:28:20.170Z
 ---
-
 At first sight, this may seem the name of some kind of butterfly, but it is **Google’s new framework for building high-quality native apps** for iOS and Android. If you’re a Mobile Developer, you should take a look at it as it’s going to change the way native apps are developed.
 
 ## Code once, run anywhere
 
 With Flutter, you can code one time and run the same app for iOS and Android devices, and it’ll automatically adapt to each operative system.
 
-You’re probably thinking _“What if I want to have different stuff on each device?”._ — You can! Flutter gives you the possibility to adapt the code and UI of the app depending on which devices are being run.
+You’re probably thinking *“What if I want to have different stuff on each device?”.* — You can! Flutter gives you the possibility to adapt the code and UI of the app depending on which devices are being run.
 
 ```dart
     theme: new ThemeData(
@@ -28,7 +28,7 @@ The above code changes the theme color to grey if the device used is running iOS
 
 ### The Usain Bolt Of Mobile App Development
 
-![](https://media.giphy.com/media/F0qo2FvhGIbXG/giphy.gif)
+![Usain Bolt running](https://media.giphy.com/media/F0qo2FvhGIbXG/giphy.gif "Usain Bolt winning")
 
 Everything is fast when using Flutter, from code writing to compiling.
 
@@ -42,9 +42,9 @@ The simplicity remains in how you only need one language for the whole app. Forg
 
 The downside is the **deeply nested code** that you’ll need to write and edit when using Flutter.
 
-Moreover, when I say deeply nested code, _I really mean it_! Imagine all the conditionals, transformations, iterations, state reading, event handlers and the UI in the same functions.
+Moreover, when I say deeply nested code, *I really mean it*! Imagine all the conditionals, transformations, iterations, state reading, event handlers and the UI in the same functions.
 
-_I know, right?_
+*I know, right?*
 
 This makes it **unusable when you start** working with it but gets easier as you start using it.
 
@@ -70,7 +70,7 @@ Flutter is fun and fast to code a well-designed app. Still has much room to impr
 
 For a reasonably modern framework, Flutter has progressed remarkably quick and, surely it will have a word to say in the future for the Mobile App development.
 
-_Is it ready to be applied to big scale apps?_ Likely not, but I’m expecting after these things are fixed, **we can all enjoy Flutter!**
+*Is it ready to be applied to big scale apps?* Likely not, but I’m expecting after these things are fixed, **we can all enjoy Flutter!**
 
 > Well, folks, that is all for now!
 

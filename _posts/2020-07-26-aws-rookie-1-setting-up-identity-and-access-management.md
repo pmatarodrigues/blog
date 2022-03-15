@@ -5,6 +5,7 @@ description: This is the start of my journey through AWS and I'll try to describ
 summary: This is the start of my journey through AWS and I'll try to describe all of the things that helped me on this path. All the good resources, cool people and tools will be featured here.
 tags: cloud
 minute: 2
+date: 2020-07-26T01:28:20.170Z
 ---
 
 You know when you just get tired of everything else you've been working on the last few years and decide to start fresh?
