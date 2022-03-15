@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 title: Do NOT Store your API Keys on Frontend
 description: Multiple times I'm asked what is the best way to store and access Secret Keys - such as API keys - on a React application.  There's a couple of things you can do to \"hide\" your keys and actually make them harder to access

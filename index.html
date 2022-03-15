@@ -5,6 +5,7 @@ layout: default
 <section class="posts" id="Blog">
     <div class="latest-posts">
         {% for post in site.posts limit:5 %}
+        {% if post.draft == false %}
         <li>
             <h1>
                 <a class="post-title" href="{{ post.url }}">
@@ -14,6 +15,7 @@ layout: default
             <p>{{ post.description }}</p>
             <p class="date">{{ post.date | date: "%B %-d, %Y" }}</p>
         </li>
+        {% endif %}
         {% endfor %}
 
     </div>
@@ -36,7 +38,7 @@ layout: default
                 </a>
                 <ul>
                     {% for post in posts %}
-                    {% if post.tags contains t %}
+                    {% if post.draft == false %}
                     <li>
                         <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
                         <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>

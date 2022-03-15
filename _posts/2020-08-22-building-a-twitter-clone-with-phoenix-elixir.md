@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 title: Building a Twitter Clone with Phoenix (Elixir)
 description: Phoenix is a web development framework written in Elixir which implements the Model – View – Controller (MVC) pattern. Phoenix is a lot of times compared with other web frameworks like Ruby on Rails and Django

@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 title: Building a Financial Portfolio Tracker - Introduction and Architecture
 description: I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.  A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager

@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 title: 'AWS Rookie #1 - Setting up Identity and Access Management'
 description: This is the start of my journey through AWS and I'll try to describe all of the things that helped me on this path. All the good resources, cool people and tools will be featured here
