@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 summary: time is scarce and everything must be done at the speed of light,
   there's no time for testing. the thing is, the time you spent writing tests
   now, is the time you'll save later
