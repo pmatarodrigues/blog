@@ -1,0 +1,80 @@
+[
+  
+    {
+
+      "title"    : "on software testing",
+      "description" : "time is scarce and everything must be done at the speed of light, there&#39;s no time for testing. the thing is, the time you spent writing tests now, is the time you&#39;ll save later",
+      "url"      : "/a/software-testing-why-and-how-to-make-them",
+      "category" : "",
+      "tags"     : "coding",
+      "date"     : "2021-07-29 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Do NOT Store your API Keys on Frontend",
+      "description" : "Multiple times I&#39;m asked what is the best way to store and access Secret Keys - such as API keys - on a React application.  There&#39;s a couple of things you can do to \&quot;hide\&quot; your keys and actually make them harder to access",
+      "url"      : "/a/do-not-store-your-api-keys-on-frontend",
+      "category" : "",
+      "tags"     : "security",
+      "date"     : "2021-02-28 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Building a Financial Portfolio Tracker - Introduction and Architecture",
+      "description" : "I decided to embrace in a new side project, something that could be large enough to cover all the areas needed in software development.  A short - and lonely - brainstorm led to an idea that can be expanded almost infinitely. I decided to build a Financial Portfolio Manager",
+      "url"      : "/a/financial-portfolio-tracker-introduction-architecture",
+      "category" : "",
+      "tags"     : "coding",
+      "date"     : "2021-02-15 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Building a Twitter Clone with Phoenix (Elixir)",
+      "description" : "Phoenix is a web development framework written in Elixir which implements the Model – View – Controller (MVC) pattern. Phoenix is a lot of times compared with other web frameworks like Ruby on Rails and Django",
+      "url"      : "/a/building-a-twitter-clone-with-phoenix-elixir",
+      "category" : "",
+      "tags"     : "coding",
+      "date"     : "2020-08-22 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Web Frameworks: Why is it so hard to choose one?",
+      "description" : "Developing for web is easier than ever and the amount of tools and resources available is increasing at an intense rate.  One of the main decisions that has to be made at the start of every web project is if we&#39;re going to use a framework and if so, which one",
+      "url"      : "/a/web-frameworks-why-is-it-so-hard-to-choose-one",
+      "category" : "",
+      "tags"     : "coding",
+      "date"     : "2020-08-06 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "AWS Rookie #1 - Setting up Identity and Access Management",
+      "description" : "This is the start of my journey through AWS and I&#39;ll try to describe all of the things that helped me on this path. All the good resources, cool people and tools will be featured here",
+      "url"      : "/a/aws-rookie-1-setting-up-identity-and-access-management",
+      "category" : "",
+      "tags"     : "cloud",
+      "date"     : "2020-07-26 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Flutter - Reasons Why You Will Fall In Love With It",
+      "description" : "Google’s SDK is here, and it has a word to say in Mobile App development",
+      "url"      : "/a/flutter-reasons-why-you-will-fall-in-love-with-it",
+      "category" : "",
+      "tags"     : "coding",
+      "date"     : "2018-08-21 00:00:00 +0100"
+
+    } 
+  
+]

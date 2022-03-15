@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+
+  <div id="intro">
+    <div class="flex-row-between">
+      <h1>{{ site.title }}</h1>
+      <p class="site-description">{{ site.description }}</p>
+    </div>
+  </div>
+
+  <main role="main">
+
+    {% include navigation.html %}
+
+    {{ content }}
+
+  </main>
+
+</body>
+{% include footer.html %}
+
+</html>

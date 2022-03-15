@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<section class="posts" id="Blog">
+    <div class="latest-posts">
+        {% for post in site.posts limit:5 %}
+        <li>
+            <h1>
+                <a class="post-title" href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+            </h1>
+            <p>{{ post.description }}</p>
+            <p class="date">{{ post.date | date: "%B %-d, %Y" }}</p>
+        </li>
+        {% endfor %}
+
+    </div>
+
+    <div class="previous-posts">
+        <h2 class="previous-articles-heading">
+            Previous Articles
+        </h2>
+
+        <ul>
+            {% for tag in site.tags %}
+            {% assign t = tag | first %}
+            {% assign posts = tag | last %}
+
+            <div class="posts-for-tag">
+                <a href="{{ site.url }}{{ site.baseurl }}/t/{{t}}">
+                    <h5 class="tag-heading">
+                        # {{ t | capitalize }}
+                    </h5>
+                </a>
+                <ul>
+                    {% for post in posts %}
+                    {% if post.tags contains t %}
+                    <li>
+                        <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
+                        <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
+
+        </ul>
+    </div>
+</section>

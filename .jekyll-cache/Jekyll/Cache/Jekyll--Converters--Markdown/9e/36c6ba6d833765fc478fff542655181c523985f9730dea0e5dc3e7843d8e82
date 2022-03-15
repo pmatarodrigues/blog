@@ -1,0 +1,61 @@
+I"=<p>Developing for web is easier than ever and the amount of tools and resources available is increasing at an intense rate.</p>
+
+<p>One of the main decisions that has to be made at the start of every web project is if we’re going to use a framework and if so, which one.</p>
+
+<p>There’s multiple factors that can influence the decision depending on <strong>which language</strong> we want to work, the <strong>type of problem</strong> we need to solve and <strong>how fast</strong> we need to do it. This series of blog posts will be accompanied with small projects that I’ll be working on to help me learn the languages and frameworks as I’m progressing, with the final goal of understanding which one is the best framework for each case.</p>
+
+<p><img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" alt="" /></p>
+
+<h2 id="express-with-reactjs">Express with ReactJS</h2>
+
+<p><strong>Express</strong> is a minimal and flexible <strong>JavaScript</strong> framework that provides a set of features for web and mobile applications.</p>
+
+<p>Express facilitates the rapid development of Node.js based web applications. Contains a great amount of HTTP utility methods ready to use, it’s easy to create a complex and robust API with it.flutter-705x397Express facilitates the rapid development of Node.js based web applications. Contains a great amount of HTTP utility methods ready to use, it’s easy to create a complex and robust API with it.</p>
+
+<p>I’ll start this journey with a private shopping list with some additional features using the <strong>MERN stack (Mongo Express React Node).</strong></p>
+
+<p><strong>My example:</strong> <a href="https://shareat.online"><strong>shareat.online</strong></a></p>
+
+<p>(<em>Working on blog post about it :D</em> )</p>
+
+<h2 id="phoenix">Phoenix</h2>
+
+<p><strong>Phoenix</strong> is a web development framework written in <strong>Elixir</strong> which implements the <strong>Model - View - Controller</strong> (MVC) pattern. Phoenix is a lot of times compared with other web frameworks like Ruby on Rails and Django</p>
+
+<p>Phoenix provides <strong>high performance</strong> along with tools that give the chance to build projects at a <strong>faster pace</strong>. Phoenix also allows the use of <strong>real-time</strong> features and <strong>pre-compile</strong>d templates, which can make the development way faster.</p>
+
+<p><strong>My example:</strong> <a href="https://ementa.test/building-a-twitter-clone-with-phoenix-elixir/">Work in Progress</a></p>
+
+<p>(<em>Working on</em> <a href="https://ementa.test/building-a-twitter-clone-with-phoenix-elixir/"><em>blog post</em></a> <em>about it :D</em> )</p>
+
+<h2 id="ruby-on-rails">Ruby on Rails</h2>
+
+<p><strong>Ruby on Rails</strong> (or Rails) is a web development framework that is particularly notable for its <strong>easy maintenance</strong> and the fact that it lends itself to collaboration. Rails follows two major points: DRY (<strong>Do Not Repeat Yourself)</strong> and <strong>Convention Over Configuration.</strong></p>
+
+<p>Following this key points, this framework <strong>cuts down the time</strong> of re-coding repetitive tasks and helps developers keep their <strong>code cleaner</strong> and <strong>easier to troubleshoot</strong> when dealing with problems.</p>
+
+<h2 id="django">Django</h2>
+
+<p>Django is a high-level Python web framework that encourages <strong>rapid development</strong> and <strong>clean</strong> design.</p>
+
+<p>Django was designed to help developers take applications from concept to completion in <strong>record time</strong> and with <strong>security</strong> and <strong>scalability</strong> in mind.</p>
+
+<h2 id="resources">Resources</h2>
+
+<ul>
+  <li><a href="http://expressjs.com/" title="http://expressjs.com/">http://expressjs.com/</a></li>
+  <li><a href="https://github.com/expressjs/express" title="https://github.com/expressjs/express">https://github.com/expressjs/express</a></li>
+  <li><a href="https://dev.to/theankitsinha/what-is-a-web-framework-and-which-one-you-should-use-hnb" title="https://dev.to/theankitsinha/what-is-a-web-framework-and-which-one-you-should-use-hnb">https://dev.to/theankitsinha/what-is-a-web-framework-and-which-one-you-should-use-hnb</a></li>
+  <li><a href="https://hexdocs.pm/phoenix/overview.html" title="https://hexdocs.pm/phoenix/overview.html">https://hexdocs.pm/phoenix/overview.html</a></li>
+  <li><a href="https://www.toptal.com/phoenix/phoenix-rails-like-framework-web-apps" title="https://www.toptal.com/phoenix/phoenix-rails-like-framework-web-apps">https://www.toptal.com/phoenix/phoenix-rails-like-framework-web-apps</a></li>
+  <li><a href="https://elixirschool.com/en/" title="https://elixirschool.com/en/">https://elixirschool.com/en/</a></li>
+  <li><a href="https://rubyonrails.org/" title="https://rubyonrails.org/">https://rubyonrails.org/</a></li>
+  <li><a href="https://guides.rubyonrails.org/getting_started.html" title="https://guides.rubyonrails.org/getting_started.html">https://guides.rubyonrails.org/getting_started.html</a></li>
+  <li><a href="https://skillcrush.com/blog/13-ruby-rails/" title="https://skillcrush.com/blog/13-ruby-rails/">https://skillcrush.com/blog/13-ruby-rails/</a></li>
+  <li><a href="https://www.rubyguides.com/2018/10/what-is-ruby-on-rails/" title="https://www.rubyguides.com/2018/10/what-is-ruby-on-rails/">https://www.rubyguides.com/2018/10/what-is-ruby-on-rails/</a></li>
+  <li><a href="https://steelkiwi.com/blog/why-django-best-web-framework-your-project/" title="https://steelkiwi.com/blog/why-django-best-web-framework-your-project/">https://steelkiwi.com/blog/why-django-best-web-framework-your-project/</a></li>
+  <li><a href="https://medium.com/@sagarajkt/what-is-django-and-why-is-it-used-2dafdc75ce67" title="https://medium.com/@sagarajkt/what-is-django-and-why-is-it-used-2dafdc75ce67">https://medium.com/@sagarajkt/what-is-django-and-why-is-it-used-2dafdc75ce67</a></li>
+  <li><a href="https://github.com/django/django" title="https://github.com/django/django">https://github.com/django/django</a></li>
+  <li><a href="https://www.djangoproject.com/" title="https://www.djangoproject.com/">https://www.djangoproject.com/</a></li>
+</ul>
+:ET
