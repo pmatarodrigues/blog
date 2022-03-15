@@ -1,12 +1,16 @@
 ---
-draft: false
+draft: true
+summary: time is scarce and everything must be done at the speed of light,
+  there's no time for testing. the thing is, the time you spent writing tests
+  now, is the time you'll save later
 layout: post
-title: on software testing
-description: time is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, the time you spent writing tests now, is the time you'll save later
-summary: time is scarce and everything must be done at the speed of light, there's no time for testing. the thing is, the time you spent writing tests now, is the time you'll save later
-tags: coding
-minute: 2
 date: 2021-07-29T01:28:20.170Z
+minute: 2
+title: on software testing
+description: time is scarce and everything must be done at the speed of light,
+  there's no time for testing. the thing is, the time you spent writing tests
+  now, is the time you'll save later
+tags: coding
 ---
 
 it's way harder to find a nice tutorial about testing, in comparison to tutorials about tools or languages or frameworks, and that's maybe because nobody is looking for ways to improve their ability in writing automated tests.
